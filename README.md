@@ -10,9 +10,9 @@ This repository contains JSON and custom .mobileconfig files designed to improve
 * Wide Compatibility: Primarily designed for macOS 14.0 Sonoma , these hardening files should be compatible and effective on older versions of macOS.
 
 ### How to Use
-* Download: Select and download the JSON files applicable to your system version (Windows 10 or Windows 11).
+* Download: Select and download the JSON files applicable to your system version.
 * Import to Intune: Easily import these files into your Microsoft Intune environment.
-* Apply Settings: Deploy these settings across your Windows clients to enforce a robust security framework.
+* Apply Settings: Deploy these settings across your macOS Sonoma clients to enforce a robust security framework.
 
 ### Why CIS Benchmarks?
 CIS Benchmarks are globally recognized as a gold standard for securing IT systems and data against cyber threats. By aligning the hardening files with these benchmarks, as much as possible, this provides you with a trustworthy and effective way to harden your macOS environments against vulnerabilities. The free available PDF files and NIST repo have been a source for building the Intune configuration files.
