@@ -10,7 +10,7 @@ It's important to note that the settings catalog in Intune does not cover all th
 You have the flexibility to choose the approach that best suits your needs. If you use the JSON file, everything will be imported automatically. Alternatively, you can opt to import the configurations based on the settings catalog and then separately import the .mobileconfig files. This allows you to fine-tune them as needed to meet your organization's specific security and operational requirements.
 
 ## What's Inside
-* JSON Hardening Files: Each file is an export from a settings catalog configuration, offering you a plug-and-play solution for immediately enhancing your system's security posture.
+* JSON Hardening Files: There is only one file based on Settings Catalog, offering you a plug-and-play solution for immediately enhancing your system's security posture. The Settings Catalog provides some settings that are listed in the CIS Benchmark. Most configuration has to be done with the .mobileconfig files (Custom Template in Intune).
 * Custom .mobileconfig Files: Created using the toolset available at [NIST's macOS Security GitHub repository](https://github.com/usnistgov/macos_security), these files provide additional configuration options and security measures.
 * Wide Compatibility: Primarily designed for macOS 14.0 Sonoma, these hardening files should be compatible and effective on older versions of macOS.
 * An .html file that provides detailed documentation of all the settings included in .mobileconfig files. This file is designed to serve as a comprehensive reference guide, explaining each setting in detail. 
