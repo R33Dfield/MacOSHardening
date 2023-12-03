@@ -32,6 +32,9 @@ Feel free to contribute, suggest improvements, or report issues. Your input is v
 ## Stay Secure
 Remember, security is an ongoing journey, not a destination. Keep your systems updated and regularly check back for the latest hardening files.
 
+## Disclaimer
+Before using the configurations in the "macOSHardening" repository for Apple macOS 14 Sonoma, please test them thoroughly in your environment. Adjustments may be needed to meet your organization's specific security and operational needs. Deployment in a production environment is at your own responsibility.
+
 ## Reference
 https://www.cisecurity.org/benchmark/apple_os
 
