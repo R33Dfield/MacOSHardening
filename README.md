@@ -3,7 +3,7 @@
 Welcome to MacOSHardening – your go-to repository for enhancing the security of macOS 14.0 Sonoma clients managed through Microsoft Intune.
 
 ## About This Repository
-This repository contains JSON and custom .mobileconfig files designed to improve macOS 14.0 Sonoma security via Intune. The configuration settings are based on the baselines provided by CIS, following the industry-recognized [CIS Benchmarks](https://www.cisecurity.org/benchmark/apple_os) for macOS hardening.
+This repository contains JSON and custom .mobileconfig files designed to improve macOS 14.0 Sonoma security via Intune. The configuration settings are based on the baselines provided by CIS, following the industry-recognized [CIS Benchmarks](https://www.cisecurity.org/benchmark/apple_os) for macOS hardening. There are CIS Level 1 and Level 2 configuration files available.
 
 It's important to note that the settings catalog in Intune does not cover all the security controls required by the CIS benchmark for macOS 14 Sonoma. To address this gap, you'll need to import the .mobileconfig files using the "Profile Templates > Custom" option in Intune. These additional files supplement the settings catalog, ensuring a more comprehensive alignment with the CIS benchmarks.
 
