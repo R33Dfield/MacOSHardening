@@ -27,7 +27,7 @@ You have the flexibility to choose the approach that best suits your needs. If y
 CIS Benchmarks are globally recognized as a gold standard for securing IT systems and data against cyber threats. By aligning the hardening files with these benchmarks, as much as possible, this provides you with a trustworthy and effective way to harden your macOS environments against vulnerabilities. The free available PDF files and NIST repo have been a source for building the Intune configuration files.
 
 ### Create your own baseline for macOS?
-Check out the excelent video from [NIST](https://youtu.be/pYDfrYQrfqc)
+Check out the excelent video from [Jamf](https://youtu.be/pYDfrYQrfqc)
 
 ## Contribution
 Feel free to contribute, suggest improvements, or report issues. Your input is valuable in making "MacOSHardening" a robust and community-driven tool for Apple macOS security.
